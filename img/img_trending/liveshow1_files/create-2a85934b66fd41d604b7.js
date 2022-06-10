@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[65],{rOo5:function(n,_,o){"use strict";o.r(_);var u=o("ug6I");_.default=u.a},yQxu:function(n,_,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/asset/create",function(){return o("rOo5")}])}},[["yQxu",1,0,13,5,9,7,3,11,6,4,12,10,2,8,14,15,16,17,27,35,42]]]);
+//# sourceMappingURL=create-2a85934b66fd41d604b7.js.map
