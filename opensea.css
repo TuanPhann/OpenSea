@@ -889,6 +889,11 @@ body.dark {
     line-height: 25px;
 }
 
+.link_user {
+    font-weight: bold;
+    color: var(--background--color);
+}
+
 .main_trending-prew button,
 .main_trending-next button {
     width: 50px;
@@ -1103,12 +1108,26 @@ body.dark {
 .main_video-total {
     padding: 50px 50px 120px 50px;
     background-image: url(https://static.opensea.io/gas-free/video-background.svg);
+    position: relative;
 }
 
 .main_video-total p {
     text-align: center;
     font-size: 12px;
     color: var(--color-icon_menu);
+}
+
+.main_video-play {
+    font-size: 50px;
+    color: red;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+.removeplay {
+
 }
 
 .main_video-button {

@@ -126,3 +126,16 @@ function darklightmobile() {
 }
 
 isDarkcheckbox.addEventListener('click', darklightmobile)
+
+// play video
+
+var isPlay =document.querySelector('.main_video-play');
+var isVideo = document.querySelector('.main_video-total video');
+
+
+isPlay.addEventListener('click', function() {
+    if(isVideo.play()) {
+        isPlay.style.display='none'
+    }
+    
+})
