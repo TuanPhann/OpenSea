@@ -798,6 +798,12 @@
         display: block;
     }
 
+    .header_menu-close i {
+        font-size: 35px;
+        color: var(--color-icon_menu);
+        cursor: pointer;
+    }
+
     .header_menu-sidebar {
         display: block;
         margin-right: 20px;
